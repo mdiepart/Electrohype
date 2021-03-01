@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SX1280
+D Semtech Long Range, Low Power, 2.4GHz Transceiver with Ranging Capability
+K LoRa, 2.4GHz, Transceiver, Semtech, Ranging, FLRC, FSK, GFSK, BLE PHY
+F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HoCW/8EVYKPLcthcKCB_cKzApAc6Xf6tAHtn9.UKcOh7SNmg
+$ENDCMP
+#
+$CMP SX1281
+D Semtech Long Range, Low Power, 2.4GHz Transceiver
+K LoRa, 2.4GHz, Transceiver, Semtech, FLRC, FSK, GFSK, BLE PHY
+F https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/2R000000HVEY/41iMQuv05AGYKcgpLPV32FKs9vbGZZx4tGFIz8HPZxA
+$ENDCMP
+#
+#End Doc Library
