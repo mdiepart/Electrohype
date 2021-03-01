@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IQXT-350-52MHz
+D IQD Surface mount Temperature Compensated Crystal Oscillator (TCXO) in a miniature 1.6 x 1.2mm surface mount package.
+K TCXO, 52MHz, Crystal, Oscillator
+F https://www.iqdfrequencyproducts.com/products/details/iqxt-350-2-02.pdf
+$ENDCMP
+#
+#End Doc Library
