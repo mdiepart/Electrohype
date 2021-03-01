@@ -6,4 +6,10 @@ K TCXO, 52MHz, Crystal, Oscillator
 F https://www.iqdfrequencyproducts.com/products/details/iqxt-350-2-02.pdf
 $ENDCMP
 #
+$CMP VL53L0X
+D ST World’s smallest Time-of-Flight ranging and gesture detection sensor
+K ToF, distance sensor, ST
+F https://www.st.com/resource/en/datasheet/vl53l0x.pdf
+$ENDCMP
+#
 #End Doc Library
