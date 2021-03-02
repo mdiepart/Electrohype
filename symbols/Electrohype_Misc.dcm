@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AEM10941
+D E-PEAS Highly-efficient, regulated dual-output, ambient energy managerfor up to 7-cell solar panels with optional primary battery
+K Energy Harvesting, Solar, E-Peas
+F https://e-peas.com/wp-content/uploads/2020/04/DS_AEM10941.pdf
+$ENDCMP
+#
 $CMP IQXT-350-52MHz
 D IQD Surface mount Temperature Compensated Crystal Oscillator (TCXO) in a miniature 1.6 x 1.2mm surface mount package.
 K TCXO, 52MHz, Crystal, Oscillator
