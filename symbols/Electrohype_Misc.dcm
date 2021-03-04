@@ -6,6 +6,16 @@ K TCXO, 52MHz, Crystal, Oscillator
 F https://www.iqdfrequencyproducts.com/products/details/iqxt-350-2-02.pdf
 $ENDCMP
 #
+$CMP QTouchSelfCap
+D QTouch SelfCapacitance tactile button
+K QTouch, capsense; selfcap, tactile, button
+$ENDCMP
+#
+$CMP QTouchSelfCap_Shielded
+D QTouch SelfCapacitance tactile button
+K QTouch, capsense; selfcap, tactile, button
+$ENDCMP
+#
 $CMP VL53L0X
 D ST World’s smallest Time-of-Flight ranging and gesture detection sensor
 K ToF, distance sensor, ST
