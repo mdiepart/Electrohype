@@ -1,4 +1,5 @@
-(module Conn_SMD_2x3_D1mm_P1.27mm (layer F.Cu) (tedit 604403F2)
+(module Conn_SMD_2x3_D1mm_P1.27mm (layer F.Cu) (tedit 6044D91F)
+  (attr virtual)
   (fp_text reference REF** (at -1.25 3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
