@@ -1,6 +1,7 @@
-(module SMTU_2450N-1-LF (layer F.Cu) (tedit 603FD310)
+(module SMTU_2450N-1-LF (layer F.Cu) (tedit 6044D93A)
   (descr "Renata 2450 coin cell battery holder")
   (tags "2450, coin cell, battery holder")
+  (attr smd)
   (fp_text reference REF** (at 0 14.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
