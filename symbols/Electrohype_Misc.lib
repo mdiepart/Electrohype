@@ -22,7 +22,7 @@ ENDDEF
 DEF QTouchSelfCap QB 0 40 Y Y 1 F N
 F0 "QB" 0 200 50 H V C CNN
 F1 "QTouchSelfCap" 0 -250 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "Electrohype_Misc:QTouchSelfCap_D8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 C 0 0 150 0 1 0 F
@@ -35,11 +35,11 @@ ENDDEF
 DEF QTouchSelfCap_Shielded QB 0 40 Y Y 1 F N
 F0 "QB" 0 200 50 H V C CNN
 F1 "QTouchSelfCap_Shielded" 0 -250 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "Electrohype_Misc:QTouchSelfCap_D10mm_Shield" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 A -1 7 199 279 -1780 0 1 39 N 175 100 -200 0
-A -1 -7 199 -1820 -279 1 1 39 N -200 0 175 -100
+A -1 -7 199 1780 -279 1 1 39 N -200 0 175 -100
 C 0 0 150 0 1 0 F
 X ~ 1 250 0 100 L 50 50 1 1 P
 X ~ 2 250 100 79 L 50 50 1 1 P
