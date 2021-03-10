@@ -24,6 +24,9 @@ F0 "QB" 0 200 50 H V C CNN
 F1 "QTouchSelfCap" 0 -250 50 H V C CNN
 F2 "Electrohype_Misc:QTouchSelfCap_D8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+$FPLIST
+ QTouchSelfCap_D
+$ENDFPLIST
 DRAW
 C 0 0 150 0 1 0 F
 X ~ 1 250 0 100 L 50 50 1 1 P
