@@ -1,6 +1,6 @@
 (footprint "Molex_0788641001" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62043446)
+  (tedit 6205044F)
   (attr smd)
   (fp_text reference "REF**" (at 0 3.8 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -33,7 +33,7 @@
   (pad "4" smd roundrect (at 2.1 0 270) (size 0.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d0dfd7c1-401d-4f64-8463-f4c0813ac28f))
   (pad "5" smd roundrect (at -2.1 1.6 270) (size 0.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 646d9e91-59b4-4865-a2fc-29780ed32563))
   (pad "6" smd roundrect (at 2.1 1.6 270) (size 0.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 825c70b0-4860-42b7-97dc-86bfa46e06fd))
-  (model "C:/Users/mdiep/git/MiniPCIe2PCIe/KiCad/Electrohype/step files/788641001.stp"
+  (model "${KIPRJMOD}/Electrohype/step files/788641001.stp"
     (offset (xyz -2.25 0.4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
